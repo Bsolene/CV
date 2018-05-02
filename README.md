@@ -26,6 +26,33 @@
 
 ## Experience
 
+**Shopmium, Paris** (February 2018 to August 2018)
+**_Junior Software Developer_**
+
+- Development & maintenance of the server side Rails app:
+    - API (for Android & iOS apps)
+    - Backoffice
+    - Web App & Website
+- Built with Ruby, Ruby on Rails, Postgresql
+- Hosted on Heroku
+
+**Le Wagon, London** (November 2017)
+**_Teaching Assistant_** 
+
+- Providing tips for proper code syntax and enforcing good practice
+- Helping students with the exercises and possible terminal issues
+- Providing students with useful resources and documentation
+
+**Paddle-Center, Lausanne** (July 2016 to September 2016)
+**_Internship Marketing & Communication_** 
+
+- Writing and creating communication materials
+
+**Sharingbox, Lausanne** (July 2015 to September 2015)
+**_Internship Project manager assistant_** 
+
+- Management of the logistics and the commercial follow-up of the projects
+
 ## Languages
 
 ## Interests
