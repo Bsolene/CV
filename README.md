@@ -8,6 +8,22 @@
 
 ## Education
 
+#### Le Wagon, Paris (September 2017)
+
+- ReactJS and Redux
+
+#### Le Wagon, London (April 2017 to June 2017)
+
+- Fullstack training
+- Object-Oriented Programming
+- Languages: Ruby, JavaScript, HTML 5, CSS
+- Frameworks: Rails, Sinatra
+- Database structure: PostgreSQL
+
+#### ESM, Geneva (October 2014 to September 2016)
+
+- Bachelor in Business Communication
+
 ## Experience
 
 ## Languages
