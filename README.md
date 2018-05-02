@@ -55,6 +55,10 @@
 
 ## Languages
 
+**French** - Native
+**English** - Fluent  
+**Spanish** - Intermediate
+
 ## Interests
 
 Travelling, Cinema, Music, Piano, Sports, Cooking
