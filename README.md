@@ -29,3 +29,5 @@
 ## Languages
 
 ## Interests
+
+Travelling, Cinema, Music, Piano, Sports, Cooking
