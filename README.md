@@ -22,6 +22,13 @@ I am enthusiastic about learning and expanding my field of knowledge. My ability
 
 ## Projects
 
+| Project | Description | Technologies used | Testing framework |
+| ------ |  ------ |  ------ |  ------ |
+|Play&nbsp;Fixes| Final group project at Le Wagon. Check the demo during our DemoDay at Google Campus [here](https://www.youtube.com/watch?v=xkr4inIoj5I&t=7s&ab_channel=LeWagon) (from 55 ') | Rails, Ruby, Javascript, PostgreSQL, Heroku,  | - |
+|[Play&nbsp;Me](https://github.com/Bsolene/play-me)| Group project at Le Wagon. [Check out]( https://play-me-bsolene.herokuapp.com/)| Rails, Ruby, Javascript, PostgreSQL, Heroku | - |
+|[Tic-Tac-Toe](https://github.com/Bsolene/Tic-Tac-Toe) | Tic-Tac-Toe is a game that can be played with any kind of square tables | JavaScript | Jasmine|
+|[Mister&nbsp;Cocktail](https://github.com/Bsolene/rails-mister-cocktail)| Project made at Le Wagon. Challenge other player with stack for video games. [Check out]( https://play-me-bsolene.herokuapp.com/)| Rails, Ruby, Javascript, PostgreSQL, Heroku | - |
+
 ## Education
 
 **Le Wagon, Paris** (September 2017)
